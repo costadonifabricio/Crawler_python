@@ -1,6 +1,6 @@
 ## Web Crawler Python
 El objetivo de este trabajo es implementar un web crawler en Python que pueda
-recorrer un sitio web, extraer todas las etiquetas <a> con sus respectivos enlaces y acceder a cada página enlazada. Por cada enlace encontrado, se deben obtener todas las etiquetas <h1> y <p> y almacenarlo en un array en un archivo JSON y si no se encuentran dichos elementos guardar el array como vacío.
+recorrer un sitio web, extraer todas las etiquetas "a" con sus respectivos enlaces y acceder a cada página enlazada. Por cada enlace encontrado, se deben obtener todas las etiquetas "h1" y "p" y almacenarlo en un array en un archivo JSON y si no se encuentran dichos elementos guardar el array como vacío.
 
 ## Requisitos
 
